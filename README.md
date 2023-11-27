@@ -4,9 +4,9 @@
  
  🏠  Moro em Londrina - Pr
  
- 👩🏽‍🎓 Cursando Análise e Desenvolvimento de Sistemas  pela UNOPAR
+  Cursando Engenharia de Software
  
-👩🏽‍🎓 Cursando  Fullstack pela  B7Web
+
 
 ##  ⚙️   GitHub Analytics
  <div
